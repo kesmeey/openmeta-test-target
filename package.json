@@ -1,0 +1,13 @@
+{
+  "name": "openmeta-test-target",
+  "version": "1.0.0",
+  "description": "temporary test repo for openmeta agent",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
